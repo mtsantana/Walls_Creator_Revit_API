@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Name>Tarefa</Name>
+		<Assembly>tarefa2.dll</Assembly>
+		<AddInId>46EC6A95-84DB-4E0C-88C0-852C0206A853</AddInId>
+		<FullClassName>tarefa2.WallCreator</FullClassName>
+		<Text>Creating Walls </Text>
+		<Description>Tarefinha</Description>
+		<VendorId>Marco T.</VendorId>
+		<VendorDescription>Marco T. demo's</VendorDescription>
+		<VisibilityMode>AlwaysVisible</VisibilityMode>
+	</AddIn>
+</RevitAddIns>
